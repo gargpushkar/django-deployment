@@ -25,7 +25,7 @@ SECRET_KEY = 'c^kx)k=*6(s#4_(4i^)@u7%#x!*!168*5_#ahaf)^0^!8!3ml%'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [gargpushkar.pythonanywhere.com,]
 
 
 # Application definition
